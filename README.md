@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy José Antonio Ortega Martínez
 
-<!--
-**Jose141218/Jose141218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Web FullStack** con experiencia en el stack **VILT** (Vue, Inertia, Laravel, Tailwind).  
+Apasionado por construir soluciones a medida con enfoque en la experiencia del usuario y la eficiencia del desarrollo.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Enfoque en desarrollo de sistemas web completos (Frontend + Backend)
+- 💻 Experiencia con Laravel, Vue.js, Tailwind, APIs REST y control de roles con Laravel Spatie
+- 🧠 Siempre aprendiendo nuevas tecnologías y buenas prácticas
+- 🤝 Me gusta colaborar con equipos y usuarios para crear soluciones útiles
+
+## 🛠 Tecnologías que uso
+
+- **Lenguajes:** PHP, JavaScript, MySQL, Python, C, Java  
+- **Frontend:** Vue.js, Tailwind CSS, HTML5, CSS3, Inertia.js, Pinia  
+- **Backend:** Laravel, APIs REST, Laravel Spatie, Stripe  
+- **Herramientas:** Git, GitHub, DBeaver, VPS, NPM, Composer  
